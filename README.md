@@ -1,24 +1,5 @@
-# README
+# Flickr-API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Use the flickr api to search photos by user-id.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project specs can be found <a href = "https://www.theodinproject.com/courses/ruby-on-rails/lessons/using-an-api"> here</a>.
